@@ -97,13 +97,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
+	      <name>tata-release</name>
 	      <url>http://3.110.174.254:8081/repository/tata-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
+	      <name>tata-snapshot</name>
 	      <url>http://3.110.174.254:8081/repository/tata-snapshot/</url>
 	    </snapshotRepository>
 	    
