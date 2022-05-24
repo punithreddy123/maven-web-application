@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Mithun Technologies - GitHub Webhook demo  .....</h1>
-<h1 align="center"> welcome to KESAV SOFTWARE SOLUTIONS.. dont believe those guys..I am requesting everyone. Please give your reviews in FB and Google.</h1>
+<h1 align="center"> welcome to KESAV SOFTWARE SOLUTIONS.. d.</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
