@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to kesav software Solutions. Bengaluru,Karnataka </h1>
-<h1 align="center">KESAVREDDY SOFT TECH ...LEARN ...</h1>
+<h1 align="center">KESAVREDDY SOFT TECH ...LEARN ......</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
